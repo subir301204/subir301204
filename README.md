@@ -1,12 +1,11 @@
 # 👋 Hello, I am SUBIR GHOSH
 
-I'm a beginer Python developer and interested in AI/ML.
+I'm a B.SC Computer Science Student.
 
 ## Currently Learning
 
-- Python libraries: Pandas, Matplotlib
-- Git & Github (for version control)
+- Currently I am building some C++ Command Line Tools
 
-## Cunnect With Me
+## Connect With Me
 
 - 📧 Email: subir301204@gmail.com
