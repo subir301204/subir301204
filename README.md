@@ -1,10 +1,15 @@
 # 👋 Hello, I am SUBIR GHOSH
 
-I'm a B.SC Computer Science Student.
+I'm a B.SC Computer Science 3rd year Student.
 
 ## Currently Learning
 
-- Currently I am building some C++ Command Line Tools
+- 🌐 Web Development
+
+## Also Interested In
+
+- 📱 Mobile Development
+- 🖥️ System Software Development
 
 ## Connect With Me
 
