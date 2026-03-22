@@ -16,4 +16,4 @@ I'm a B.SC Computer Science 3rd year Student.
 ## Connect With Me
 
 - 📧 Email: subir301204@gmail.com
-- X Profile: @iamSubir14
+- X Profile: [@iamSubir14](https://x.com/iamSubir14)
