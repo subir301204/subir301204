@@ -5,13 +5,13 @@ I'm a B.SC Computer Science 3rd year Student.
 ## Currently Learning
 
 - 🌐 Web Development
-- 👷 Building some small comand line tools (Keeping the clones private)
+- 👷 Building a tool like grep (in Linux)
+  - This is only a pet project
 
 ## Also Interested In
 
-- 📱 Mobile Development
 - 🖥️ System Software Development
-- ⌨️ Terminal Design 
+- 📱 Mobile Development
 
 ## Connect With Me
 
