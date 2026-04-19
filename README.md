@@ -5,8 +5,9 @@ I'm a B.SC Computer Science 3rd year Student.
 ## Currently Learning
 
 - 🌐 Web Development
-- 👷 Building a tool like grep (in Linux)
+- 👷 Building a tool todoist all but inside the terminal
   - This is only a pet project
+  - But I want to use it in my regular life
 
 ## Also Interested In
 
