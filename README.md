@@ -4,8 +4,11 @@ I'm a B.SC Computer Science 3rd year Student.
 
 ## Currently Learning
 
-- 🌐 Web Development
-- 👷 Building a tool todoist all but inside the terminal
+- 🌐 Web Development from a Udemy course
+
+## Current Projects
+
+- 🔨 Upgrading a tool todoist all but inside the terminal
   - This is only a pet project
   - But I want to use it in my regular life
 
