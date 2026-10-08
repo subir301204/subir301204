@@ -8,6 +8,8 @@ I'm a B.SC Computer Science 3rd year Student.
 
 ## Current Projects
 
+- Full working TODO App, Only FRONT END
+
 ## Also Interested In
 
 - Building command line tools
