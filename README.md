@@ -4,6 +4,7 @@ I'm a B.SC Computer Science 3rd year Student.
 
 ## Currently Learning
 
+- Following Web Development course from **Hitesh Sir's** Udemy course
 - Web Development Front End by building Projects
 
 ## Current Projects
