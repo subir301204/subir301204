@@ -5,11 +5,11 @@ I'm a B.SC Computer Science 3rd year Student.
 ## Currently Learning
 
 - Following Web Development course from **Hitesh Sir's** Udemy course
-- Web Development Front End by building Projects
+- Following DSA from the roadmap [dsa.chaicode.com/ai-roadmap](https://dsa.chaicode.com/ai-roadmap)
 
 ## Current Projects
 
-- Full working TODO App, Only FRONT END
+- Currently I am not building any project
 
 ## Also Interested In
 
