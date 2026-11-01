@@ -9,7 +9,7 @@ I'm a B.SC Computer Science 3rd year Student.
 
 ## Current Projects
 
-- Currently I am not building any project
+- Currently I am building a small single page todo list app (for learning only)
 
 ## Also Interested In
 
